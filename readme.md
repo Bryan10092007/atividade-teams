@@ -46,3 +46,10 @@ Imagens da atividade:
 10->
 
 ![foto 10](https://github.com/Bryan10092007/atividade-teams/assets/163545226/61d2d96f-37de-457d-b470-739cb40ffc77)
+11->
+
+![foto 11](https://github.com/Bryan10092007/atividade-teams/assets/163545226/9565017a-a744-46a0-86b4-e9e4f47ab2d1)
+
+12->
+
+![foto 12](https://github.com/Bryan10092007/atividade-teams/assets/163545226/da5020c0-6b96-4d72-81ce-6ddeefb04d0d)
